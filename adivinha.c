@@ -53,12 +53,10 @@ numero = infonumero();
 //Conferir e direcionar
 if(numero==numoculto){
     acertou();
-    //printf("%d",numoculto);
     break;
     }
     else {
         errou();
-        //printf("%d",numoculto);
     }
 }
 //Apresentar número sorteado e sair
