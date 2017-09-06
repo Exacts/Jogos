@@ -1,6 +1,6 @@
 //fale comigo: marcio@exacts.com.br
 /*
- * Programa que sorteia um número para ser adivinhado
+ * Programa que sorteia um número entre 0 e 100 para ser adivinhado em até 10 tentativas
  */
 
 #include <stdio.h>
